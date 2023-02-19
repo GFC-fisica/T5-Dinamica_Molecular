@@ -30,4 +30,4 @@
 
 1. David Duran
 2. Pedro Rojas
-3. 
+3. Franklin Vilca
